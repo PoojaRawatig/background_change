@@ -1,0 +1,26 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    /* background-color: rebeccapurple; */
+    /* background-image: url("pro1.jpeg"); */
+}
+button{
+    /* display: flex; */
+    /* background-color: rgb(106, 2, 2); */
+    height: 50px;
+    font-size: 55px;
+    width: 100px;
+    border-radius: 30px;
+    cursor: pointer;
+    border: 3px solid rgb(198, 15, 15);
+}
